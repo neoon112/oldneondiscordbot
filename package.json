@@ -1,0 +1,19 @@
+{
+  "name": "neonsploitbot",
+  "version": "1.0.0",
+  "description": "NeonSploit Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.3",
+    "random-puppy": "^1.1.0"
+  }
+}
